@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/joho/godotenv"
-	"github.com/rlgns98kr/dbpractice/mariadb"
+	"github.com/rlgns98kr/Go_mariaDB/mariadb"
 	"log"
 )
 
